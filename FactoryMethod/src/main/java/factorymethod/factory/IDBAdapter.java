@@ -4,9 +4,8 @@ import java.sql.Connection;
 
 /**
  *
- * @author Oscar Blancarte <oscarblancarte3@gmail.com>
+ * @author richa
  */
 public interface IDBAdapter {
-    
     public Connection getConnection();
 }

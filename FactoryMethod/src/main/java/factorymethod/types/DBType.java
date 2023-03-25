@@ -2,9 +2,9 @@ package factorymethod.types;
 
 /**
  *
- * @author Oscar Blancarte <oscarblancarte3@gmail.com>
+ * @author richa
  */
 public enum DBType {
     MYSQL,
-    ORACLE
+    POSTGRES,
 }
